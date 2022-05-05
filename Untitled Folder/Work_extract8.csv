@@ -1,0 +1,304 @@
+,M_Call_Name,M_Call_Arg,Receiver_var,File_Name,MethodName,M_Call_Arg_len,MethodClass,Swap_arg_listing
+2,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\studio-ousia\gsocketpool\docs\conf.py,insert,2,sys,0 ; <class 'int'>
+3,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\sublee\elo\docs\conf.py,insert,2,sys,0 ; <class 'int'>
+4,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\sublee\elo\docs\conf.py,insert,2,sys,0 ; <class 'int'>
+5,Blueprint,"test ; <class 'str'>, __name__ ; <class 'str'>",bp,D:\Testing\sublee\flask-autoindex\tests\blueprinttest\__init__.py,Blueprint,2,, __name__ ; <class 'str'> test ; <class 'str'>
+6,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\sublee\korean\docs\conf.py,insert,2,sys,0 ; <class 'int'>
+7,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\sublee\korean\docs\conf.py,insert,2,sys,0 ; <class 'int'>
+10,"OrderedDictSafeDumper,add_representer","OrderedDict ; <class 'str'>, <ast.Name object at 0x0000022BADE021F0> ; <class 'ast.Name'>",,D:\Testing\SublimeText\PackageDev\ordereddict_yaml\__init__.py,add_representer,2,OrderedDictSafeDumper, <ast.Name object at 0x0000022BADE021F0> ; <class 'ast.Name'> OrderedDict ; <class 'str'>
+11,"yaml,add_representer","OrderedDict ; <class 'str'>, <ast.Name object at 0x0000022BADE352B0> ; <class 'ast.Name'>",,D:\Testing\SublimeText\PackageDev\ordereddict_yaml\__init__.py,add_representer,2,yaml, <ast.Name object at 0x0000022BADE352B0> ; <class 'ast.Name'> OrderedDict ; <class 'str'>
+12,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\SublimeText\SublimeHg\tests\test_sublime_hg.py,insert,2,sys,0 ; <class 'int'>
+16,"site,register","Program ; <class 'str'>, ProgramIndex ; <class 'str'>",,D:\Testing\sunlightlabs\clearspending\cfda\search_indexes.py,register,2,site, ProgramIndex ; <class 'str'> Program ; <class 'str'>
+17,"admin,site,register","QuestionSet ; <class 'str'>, QuestionSetAdmin ; <class 'str'>",,D:\Testing\sunlightlabs\django-simplesurvey\simplesurvey\admin.py,register,2,admin, QuestionSetAdmin ; <class 'str'> QuestionSet ; <class 'str'>
+18,"admin,site,register","AnswerSet ; <class 'str'>, AnswerSetAdmin ; <class 'str'>",,D:\Testing\sunlightlabs\django-simplesurvey\simplesurvey\admin.py,register,2,admin, AnswerSetAdmin ; <class 'str'> AnswerSet ; <class 'str'>
+19,getattr,"settings ; <class 'str'>, WP_PER_PAGE ; <class 'str'>, 10 ; <class 'int'>",PER_PAGE,D:\Testing\sunlightlabs\django-wordpress\wordpress\views.py,getattr,3,, 10 ; <class 'int'>  WP_PER_PAGE ; <class 'str'> settings ; <class 'str'>
+24,patterns," ; <class 'str'>, , , ",urlpatterns,D:\Testing\sunlightlabs\read_FEC\fecreader\reconciliation\urls.py,patterns,4,, ; <class 'str'>
+25,date,"2012 ; <class 'int'>, 12 ; <class 'int'>, 31 ; <class 'int'>",cycle_iso_start,D:\Testing\sunlightlabs\read_FEC\fecreader\summary_data\utils\weekly_update_utils.py,date,3,, 31 ; <class 'int'>  12 ; <class 'int'> 2012 ; <class 'int'>
+26,"admin,site,register","Category ; <class 'str'>, CategoryAdmin ; <class 'str'>",,D:\Testing\sunlightlabs\sunlightacademy\training\admin.py,register,2,admin, CategoryAdmin ; <class 'str'> Category ; <class 'str'>
+27,"admin,site,register","Module ; <class 'str'>, ModuleAdmin ; <class 'str'>",,D:\Testing\sunlightlabs\sunlightacademy\training\admin.py,register,2,admin, ModuleAdmin ; <class 'str'> Module ; <class 'str'>
+28,"admin,site,register","Training ; <class 'str'>, TrainingAdmin ; <class 'str'>",,D:\Testing\sunlightlabs\sunlightacademy\training\admin.py,register,2,admin, TrainingAdmin ; <class 'str'> Training ; <class 'str'>
+29,"admin,site,register","Feedback ; <class 'str'>, FeedbackAdmin ; <class 'str'>",,D:\Testing\sunlightlabs\sunlightacademy\training\admin.py,register,2,admin, FeedbackAdmin ; <class 'str'> Feedback ; <class 'str'>
+30,"admin,site,register","Profile ; <class 'str'>, ProfileAdmin ; <class 'str'>",,D:\Testing\sunlightlabs\sunlightacademy\training\admin.py,register,2,admin, ProfileAdmin ; <class 'str'> Profile ; <class 'str'>
+32,"os,environ,setdefault","config_variable_name ; <class 'str'>, default_config_path ; <class 'str'>",,D:\Testing\sunscrapers\flask-boilerplate\app.py,setdefault,2,os, default_config_path ; <class 'str'> config_variable_name ; <class 'str'>
+39,getattr,"settings ; <class 'str'>, CURRENCY_CODE ;<class 'str'>, USD ;<class 'str'>",CODE,D:\Testing\Suor\django-easymoney\easymoney.py,getattr,3,, USD ;<class 'str'>  CURRENCY_CODE ;<class 'str'> settings ; <class 'str'>
+40,getattr,"settings ; <class 'str'>, CURRENCY_FORMAT ;<class 'str'>, None ;<class 'NoneType'>",FORMAT,D:\Testing\Suor\django-easymoney\easymoney.py,getattr,3,, None ;<class 'NoneType'>  CURRENCY_FORMAT ;<class 'str'> settings ; <class 'str'>
+41,getattr,"settings ; <class 'str'>, CURRENCY_LOCALE ;<class 'str'>, en_US ;<class 'str'>",LOCALE,D:\Testing\Suor\django-easymoney\easymoney.py,getattr,3,, en_US ;<class 'str'>  CURRENCY_LOCALE ;<class 'str'> settings ; <class 'str'>
+42,getattr,"settings ; <class 'str'>, CURRENCY_DECIMAL_PLACES ;<class 'str'>, 2 ;<class 'int'>",DECIMAL_PLACES,D:\Testing\Suor\django-easymoney\easymoney.py,getattr,3,, 2 ;<class 'int'>  CURRENCY_DECIMAL_PLACES ;<class 'str'> settings ; <class 'str'>
+67,setattr,"py3 ; <class 'str'>, ",,D:\Testing\Suor\funcy\funcy\py3.py,setattr,2,,py3 ; <class 'str'>
+68,setattr,"py3 ; <class 'str'>, lzip ; <class 'str'>, ",,D:\Testing\Suor\funcy\funcy\py3.py,setattr,3,, lzip ; <class 'str'> py3 ; <class 'str'>
+69,setattr,"py3 ; <class 'str'>, lzip ; <class 'str'>, <ast.Name object at 0x0000022BADD7D8B0> ; <class 'ast.Name'>",,D:\Testing\Suor\funcy\funcy\py3.py,setattr,3,, <ast.Name object at 0x0000022BADD7D8B0> ; <class 'ast.Name'>  lzip ; <class 'str'> py3 ; <class 'str'>
+71,partial,"ireductions ; <class 'str'>, add ; <class 'str'>",isums,D:\Testing\Suor\funcy\funcy\seqs.py,partial,2,, add ; <class 'str'> ireductions ; <class 'str'>
+72,partial,"reductions ; <class 'str'>, add ; <class 'str'>",sums,D:\Testing\Suor\funcy\funcy\seqs.py,partial,2,, add ; <class 'str'> reductions ; <class 'str'>
+103,pow,"2 ; <class 'int'>, 20 ; <class 'int'>",M,D:\Testing\Supervisor\superlance\superlance\grower.py,pow,2,, 20 ; <class 'int'> 2 ; <class 'int'>
+105,"cProfile,run","resttest.command_line_run([""http://localhost:8000"",""../pyresttest/content-test.yaml""]) ; <class 'str'>",,D:\Testing\svanoort\pyresttest\util\profile_basic_test.py,run,2,cProfile,"""../pyresttest/content-test.yaml""]) ; <class 'str'> resttest.command_line_run([""http://localhost:8000"""
+112,getattr,"settings ; <class 'str'>, DONT_FETCH_LOCAL_AVATARS ; <class 'str'>, False ; <class 'bool'>",DONT_FETCH_LOCAL_AVATARS,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, False ; <class 'bool'>  DONT_FETCH_LOCAL_AVATARS ; <class 'str'> settings ; <class 'str'>
+113,getattr,"settings ; <class 'str'>, AVATARS_CACHE_DAYS ; <class 'str'>, 1 ; <class 'int'>",AVATARS_CACHE_DAYS,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, 1 ; <class 'int'>  AVATARS_CACHE_DAYS ; <class 'str'> settings ; <class 'str'>
+114,getattr,"settings ; <class 'str'>, AVATARS_CACHE_DIR ; <class 'str'>, avatars_cache ; <class 'str'>",AVATARS_CACHE_DIR,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, avatars_cache ; <class 'str'>  AVATARS_CACHE_DIR ; <class 'str'> settings ; <class 'str'>
+115,getattr,"settings ; <class 'str'>, AVATAR_SIZE ; <class 'str'>, List_value ; List",AVATAR_SIZE,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, List_value ; List  AVATAR_SIZE ; <class 'str'> settings ; <class 'str'>
+118,getattr,"settings ; <class 'str'>, AUTHOR_NAME ; <class 'str'>, None ; <class 'NoneType'>",AUTHOR_NAME,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, None ; <class 'NoneType'>  AUTHOR_NAME ; <class 'str'> settings ; <class 'str'>
+119,getattr,"settings ; <class 'str'>, CONTACTS_URL ; <class 'str'>, None ; <class 'NoneType'>",CONTACTS_URL,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, None ; <class 'NoneType'>  CONTACTS_URL ; <class 'str'> settings ; <class 'str'>
+120,getattr,"settings ; <class 'str'>, AVATAR_DISCOVERY_ORDER ; <class 'str'>, List_value ; List",AVATAR_DISCOVERY_ORDER,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, List_value ; List  AVATAR_DISCOVERY_ORDER ; <class 'str'> settings ; <class 'str'>
+121,getattr,"settings ; <class 'str'>, DEFAULT_GRAVATAR ; <class 'str'>, None ; <class 'NoneType'>",DEFAULT_GRAVATAR,D:\Testing\svetlyak40wt\django-faces\django_faces\settings.py,getattr,3,, None ; <class 'NoneType'>  DEFAULT_GRAVATAR ; <class 'str'> settings ; <class 'str'>
+124,"admin,site,register","Pingback ; <class 'str'>, PingbackAdmin ; <class 'str'>",,D:\Testing\svetlyak40wt\django-pingback\pingback\admin.py,register,2,admin, PingbackAdmin ; <class 'str'> Pingback ; <class 'str'>
+125,"admin,site,register","PingbackClient ; <class 'str'>, PingbackClientAdmin ; <class 'str'>",,D:\Testing\svetlyak40wt\django-pingback\pingback\admin.py,register,2,admin, PingbackClientAdmin ; <class 'str'> PingbackClient ; <class 'str'>
+126,"admin,site,register","DirectoryPing ; <class 'str'>, DirectoryPingAdmin ; <class 'str'>",,D:\Testing\svetlyak40wt\django-pingback\pingback\admin.py,register,2,admin, DirectoryPingAdmin ; <class 'str'> DirectoryPing ; <class 'str'>
+137,date,"2014 ; <class 'int'>, 1 ; <class 'int'>, 1 ; <class 'int'>",START_OF_MODERNITY,D:\Testing\swcarpentry\amy\workshops\migrations\0062_no_invoice_for_historic_events.py,date,3,, 1 ; <class 'int'>  1 ; <class 'int'> 2014 ; <class 'int'>
+189,MatrixSymbol,"X ; <class 'str'>, 2 ; <class 'int'>, 2 ; <class 'int'>",X,D:\Testing\sympy\sympy\sympy\assumptions\tests\test_matrices.py,MatrixSymbol,3,, 2 ; <class 'int'>  2 ; <class 'int'> X ; <class 'str'>
+190,MatrixSymbol,"Y ; <class 'str'>, 2 ; <class 'int'>, 3 ; <class 'int'>",Y,D:\Testing\sympy\sympy\sympy\assumptions\tests\test_matrices.py,MatrixSymbol,3,, 3 ; <class 'int'>  2 ; <class 'int'> Y ; <class 'str'>
+191,MatrixSymbol,"Z ; <class 'str'>, 2 ; <class 'int'>, 2 ; <class 'int'>",Z,D:\Testing\sympy\sympy\sympy\assumptions\tests\test_matrices.py,MatrixSymbol,3,, 2 ; <class 'int'>  2 ; <class 'int'> Z ; <class 'str'>
+202,slice,"None ; <class 'NoneType'>, _ITEMS ; <class 'str'>",_M,D:\Testing\sympy\sympy\sympy\functions\combinatorial\numbers.py,slice,2,, _ITEMS ; <class 'str'> None ; <class 'NoneType'>
+216,MatrixSymbol,"X ; <class 'str'>, n ; <class 'str'>, n ; <class 'str'>",X,D:\Testing\sympy\sympy\sympy\matrices\expressions\tests\test_factorizations.py,MatrixSymbol,3,, n ; <class 'str'>  n ; <class 'str'> X ; <class 'str'>
+217,MatrixSymbol,"X ; <class 'str'>, 2 ; <class 'int'>, 2 ; <class 'int'>",X,D:\Testing\sympy\sympy\sympy\matrices\expressions\tests\test_matadd.py,MatrixSymbol,3,, 2 ; <class 'int'>  2 ; <class 'int'> X ; <class 'str'>
+218,MatrixSymbol,"Y ; <class 'str'>, 2 ; <class 'int'>, 2 ; <class 'int'>",Y,D:\Testing\sympy\sympy\sympy\matrices\expressions\tests\test_matadd.py,MatrixSymbol,3,, 2 ; <class 'int'>  2 ; <class 'int'> Y ; <class 'str'>
+219,MatrixSymbol,"X ; <class 'str'>, n ; <class 'str'>, m ; <class 'str'>",X,D:\Testing\sympy\sympy\sympy\matrices\expressions\tests\test_slice.py,MatrixSymbol,3,, m ; <class 'str'>  n ; <class 'str'> X ; <class 'str'>
+220,MatrixSymbol,"Y ; <class 'str'>, m ; <class 'str'>, k ; <class 'str'>",Y,D:\Testing\sympy\sympy\sympy\matrices\expressions\tests\test_slice.py,MatrixSymbol,3,, k ; <class 'str'>  m ; <class 'str'> Y ; <class 'str'>
+229,property,"transpose ; <class 'str'>, None ;<class 'NoneType'>, None ;<class 'NoneType'>, Matrix transposition. ;<class 'str'>",T,D:\Testing\sympy\sympy\sympy\matrices\matrices.py,property,4,, Matrix transposition. ;<class 'str'>  None ;<class 'NoneType'>  None ;<class 'NoneType'> transpose ; <class 'str'>
+230,property,"conjugate ; <class 'str'>, None ;<class 'NoneType'>, None ;<class 'NoneType'>, By-element conjugation. ;<class 'str'>",C,D:\Testing\sympy\sympy\sympy\matrices\matrices.py,property,4,, By-element conjugation. ;<class 'str'>  None ;<class 'NoneType'>  None ;<class 'NoneType'> conjugate ; <class 'str'>
+231,property,"row_list ; <class 'str'>, None ;<class 'NoneType'>, None ;<class 'NoneType'>, Alternate faster representation ;<class 'str'>",RL,D:\Testing\sympy\sympy\sympy\matrices\sparse.py,property,4,, Alternate faster representation ;<class 'str'>  None ;<class 'NoneType'>  None ;<class 'NoneType'> row_list ; <class 'str'>
+232,property,"col_list ; <class 'str'>, None ;<class 'NoneType'>, None ;<class 'NoneType'>, Alternate faster representation ;<class 'str'>",CL,D:\Testing\sympy\sympy\sympy\matrices\sparse.py,property,4,, Alternate faster representation ;<class 'str'>  None ;<class 'NoneType'>  None ;<class 'NoneType'> col_list ; <class 'str'>
+251,Pow,"2 ; <class 'int'>, ",sqrt2_inv,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,Pow,2,,2 ; <class 'int'>
+253,"matrix_cache,cache_matrix","eye2 ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,eye2 ; <class 'str'>
+254,"matrix_cache,cache_matrix","op11 ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,op11 ; <class 'str'>
+255,"matrix_cache,cache_matrix","op00 ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,op00 ; <class 'str'>
+256,"matrix_cache,cache_matrix","op10 ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,op10 ; <class 'str'>
+257,"matrix_cache,cache_matrix","op01 ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,op01 ; <class 'str'>
+258,"matrix_cache,cache_matrix","X ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,X ; <class 'str'>
+259,"matrix_cache,cache_matrix","Y ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,Y ; <class 'str'>
+260,"matrix_cache,cache_matrix","Z ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,Z ; <class 'str'>
+261,"matrix_cache,cache_matrix","S ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,S ; <class 'str'>
+262,"matrix_cache,cache_matrix","T ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,T ; <class 'str'>
+263,"matrix_cache,cache_matrix","H ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,H ; <class 'str'>
+264,"matrix_cache,cache_matrix","Hsqrt2 ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,Hsqrt2 ; <class 'str'>
+265,"matrix_cache,cache_matrix","SWAP ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,SWAP ; <class 'str'>
+266,"matrix_cache,cache_matrix","ZX ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,ZX ; <class 'str'>
+267,"matrix_cache,cache_matrix","ZY ; <class 'str'>, ",,D:\Testing\sympy\sympy\sympy\physics\quantum\matrixcache.py,cache_matrix,2,matrix_cache,ZY ; <class 'str'>
+278,gradient,"scalar_field ; <class 'str'>, R ; <class 'str'>",grad_field,D:\Testing\sympy\sympy\sympy\physics\vector\tests\test_fieldfunctions.py,gradient,2,, R ; <class 'str'> scalar_field ; <class 'str'>
+279,curl,"vector_field ; <class 'str'>, R ; <class 'str'>",curl_field,D:\Testing\sympy\sympy\sympy\physics\vector\tests\test_fieldfunctions.py,curl,2,, R ; <class 'str'> vector_field ; <class 'str'>
+283,Rational,"1 ; <class 'int'>, 100 ; <class 'int'>",percent,D:\Testing\sympy\sympy\sympy\physics\units.py,Rational,2,, 100 ; <class 'int'> 1 ; <class 'int'>
+284,Rational,"1 ; <class 'int'>, 1000 ; <class 'int'>",permille,D:\Testing\sympy\sympy\sympy\physics\units.py,Rational,2,, 1000 ; <class 'int'> 1 ; <class 'int'>
+286,Unit,"meter ; <class 'str'>, m ; <class 'str'>",length,D:\Testing\sympy\sympy\sympy\physics\units.py,Unit,2,, m ; <class 'str'> meter ; <class 'str'>
+287,Unit,"kilogram ; <class 'str'>, kg ; <class 'str'>",mass,D:\Testing\sympy\sympy\sympy\physics\units.py,Unit,2,, kg ; <class 'str'> kilogram ; <class 'str'>
+288,Unit,"second ; <class 'str'>, s ; <class 'str'>",time,D:\Testing\sympy\sympy\sympy\physics\units.py,Unit,2,, s ; <class 'str'> second ; <class 'str'>
+289,Unit,"ampere ; <class 'str'>, A ; <class 'str'>",current,D:\Testing\sympy\sympy\sympy\physics\units.py,Unit,2,, A ; <class 'str'> ampere ; <class 'str'>
+290,Unit,"kelvin ; <class 'str'>, K ; <class 'str'>",temperature,D:\Testing\sympy\sympy\sympy\physics\units.py,Unit,2,, K ; <class 'str'> kelvin ; <class 'str'>
+291,Unit,"mole ; <class 'str'>, mol ; <class 'str'>",amount,D:\Testing\sympy\sympy\sympy\physics\units.py,Unit,2,, mol ; <class 'str'> mole ; <class 'str'>
+292,Unit,"candela ; <class 'str'>, cd ; <class 'str'>",luminosity,D:\Testing\sympy\sympy\sympy\physics\units.py,Unit,2,, cd ; <class 'str'> candela ; <class 'str'>
+293,property,"_get_style ; <class 'str'>, _set_style ; <class 'str'>",style,D:\Testing\sympy\sympy\sympy\plotting\pygletplot\plot_mode_base.py,property,2,,"_get_style ; <class 'str'>, _set_style ; <class 'str'>"
+294,property,"_get_color ; <class 'str'>, _set_color ; <class 'str'>",color,D:\Testing\sympy\sympy\sympy\plotting\pygletplot\plot_mode_base.py,property,2,,"_get_color ; <class 'str'>, _set_color ; <class 'str'>"
+301,genprime,"10 ; <class 'int'>, ZZ ; <class 'str'>",p_10,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,genprime,2,, ZZ ; <class 'str'> 10 ; <class 'int'>
+302,gathen_poly,"10 ; <class 'int'>, p_10 ; <class 'str'>, ZZ ; <class 'str'>",f_10,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,gathen_poly,3,, ZZ ; <class 'str'>  p_10 ; <class 'str'> 10 ; <class 'int'>
+303,genprime,"20 ; <class 'int'>, ZZ ; <class 'str'>",p_20,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,genprime,2,, ZZ ; <class 'str'> 20 ; <class 'int'>
+304,gathen_poly,"20 ; <class 'int'>, p_20 ; <class 'str'>, ZZ ; <class 'str'>",f_20,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,gathen_poly,3,, ZZ ; <class 'str'>  p_20 ; <class 'str'> 20 ; <class 'int'>
+305,genprime,"8 ; <class 'int'>, ZZ ; <class 'str'>",P_08,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,genprime,2,, ZZ ; <class 'str'> 8 ; <class 'int'>
+306,shoup_poly,"10 ; <class 'int'>, P_08 ; <class 'str'>, ZZ ; <class 'str'>",F_10,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,shoup_poly,3,, ZZ ; <class 'str'>  P_08 ; <class 'str'> 10 ; <class 'int'>
+307,genprime,"18 ; <class 'int'>, ZZ ; <class 'str'>",P_18,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,genprime,2,, ZZ ; <class 'str'> 18 ; <class 'int'>
+308,shoup_poly,"20 ; <class 'int'>, P_18 ; <class 'str'>, ZZ ; <class 'str'>",F_20,D:\Testing\sympy\sympy\sympy\polys\benchmarks\bench_galoispolys.py,shoup_poly,3,, ZZ ; <class 'str'>  P_18 ; <class 'str'> 20 ; <class 'int'>
+312,property,", _set_mpf ; <class 'str'>",_mpf_,D:\Testing\sympy\sympy\sympy\polys\domains\mpelements.py,property,2,,", _set_mpf ; <class 'str'>"
+313,property,", _set_mpc ; <class 'str'>",_mpc_,D:\Testing\sympy\sympy\sympy\polys\domains\mpelements.py,property,2,,", _set_mpc ; <class 'str'>"
+338,assoc,"basic_fns ; <class 'str'>, new ; <class 'str'>, ",expr_fns,D:\Testing\sympy\sympy\sympy\strategies\util.py,assoc,3,, new ; <class 'str'> basic_fns ; <class 'str'>
+339,Template,"#include ""Python.h""
+#include ""math.h""
+#include ""numpy/ndarraytypes.h""
+#include ""numpy/ufuncobject.h""
+#include ""numpy/halffloat.h""
+#include ${include_file}
+
+static PyMethodDef ${module}Methods[] = {
+        {NULL, NULL, 0, NULL}
+}; ; <class 'str'>",_ufunc_top,D:\Testing\sympy\sympy\sympy\utilities\autowrap.py,Template,4,," NULL}
+}; ; <class 'str'>  0  NULL #include ""Python.h""
+#include ""math.h""
+#include ""numpy/ndarraytypes.h""
+#include ""numpy/ufuncobject.h""
+#include ""numpy/halffloat.h""
+#include ${include_file}
+
+static PyMethodDef ${module}Methods[] = {
+        {NULL"
+340,Template,"static void ${funcname}_ufunc(char **args, npy_intp *dimensions, npy_intp* steps, void* data)
+{
+    npy_intp i;
+    npy_intp n = dimensions[0];
+    ${declare_args}
+    ${declare_steps}
+    for (i = 0; i < n; i++) {
+        *((double *)out1) = ${funcname}(${call_args});
+        ${step_increments}
+    }
+}
+PyUFuncGenericFunction ${funcname}_funcs[1] = {&${funcname}_ufunc};
+static char ${funcname}_types[${n_types}] = ${types}
+static void *${funcname}_data[1] = {NULL}; ; <class 'str'>",_ufunc_body,D:\Testing\sympy\sympy\sympy\utilities\autowrap.py,Template,4,," void* data)
+{
+    npy_intp i;
+    npy_intp n = dimensions[0];
+    ${declare_args}
+    ${declare_steps}
+    for (i = 0; i < n; i++) {
+        *((double *)out1) = ${funcname}(${call_args});
+        ${step_increments}
+    }
+}
+PyUFuncGenericFunction ${funcname}_funcs[1] = {&${funcname}_ufunc};
+static char ${funcname}_types[${n_types}] = ${types}
+static void *${funcname}_data[1] = {NULL}; ; <class 'str'>  npy_intp* steps  npy_intp *dimensions static void ${funcname}_ufunc(char **args"
+341,Template,"#if PY_VERSION_HEX >= 0x03000000
+static struct PyModuleDef moduledef = {
+    PyModuleDef_HEAD_INIT,
+    ""${module}"",
+    NULL,
+    -1,
+    ${module}Methods,
+    NULL,
+    NULL,
+    NULL,
+    NULL
+};
+
+PyMODINIT_FUNC PyInit_${module}(void)
+{
+    PyObject *m, *d;
+    ${function_creation}
+    m = PyModule_Create(&moduledef);
+    if (!m) {
+        return NULL;
+    }
+    import_array();
+    import_umath();
+    d = PyModule_GetDict(m);
+    ${ufunc_init}
+    return m;
+}
+#else
+PyMODINIT_FUNC init${module}(void)
+{
+    PyObject *m, *d;
+    ${function_creation}
+    m = Py_InitModule(""${module}"", ${module}Methods);
+    if (m == NULL) {
+        return;
+    }
+    import_array();
+    import_umath();
+    d = PyModule_GetDict(m);
+    ${ufunc_init}
+}
+#endif ; <class 'str'>",_ufunc_bottom,D:\Testing\sympy\sympy\sympy\utilities\autowrap.py,Template,12,," ${module}Methods);
+    if (m == NULL) {
+        return;
+    }
+    import_array();
+    import_umath();
+    d = PyModule_GetDict(m);
+    ${ufunc_init}
+}
+#endif ; <class 'str'>  *d;
+    ${function_creation}
+    m = Py_InitModule(""${module}""  *d;
+    ${function_creation}
+    m = PyModule_Create(&moduledef);
+    if (!m) {
+        return NULL;
+    }
+    import_array();
+    import_umath();
+    d = PyModule_GetDict(m);
+    ${ufunc_init}
+    return m;
+}
+#else
+PyMODINIT_FUNC init${module}(void)
+{
+    PyObject *m 
+    NULL
+};
+
+PyMODINIT_FUNC PyInit_${module}(void)
+{
+    PyObject *m 
+    NULL 
+    NULL 
+    NULL 
+    ${module}Methods 
+    -1 
+    NULL 
+    ""${module}"" #if PY_VERSION_HEX >= 0x03000000
+static struct PyModuleDef moduledef = {
+    PyModuleDef_HEAD_INIT"
+342,Template,"ufunc${ind} = PyUFunc_FromFuncAndData(${funcname}_funcs, ${funcname}_data, ${funcname}_types, 1, ${n_in}, ${n_out},
+            PyUFunc_None, ""${module}"", ${docstring}, 0);
+    PyDict_SetItemString(d, ""${funcname}"", ufunc${ind});
+    Py_DECREF(ufunc${ind}); ; <class 'str'>",_ufunc_init_form,D:\Testing\sympy\sympy\sympy\utilities\autowrap.py,Template,12,," ufunc${ind});
+    Py_DECREF(ufunc${ind}); ; <class 'str'>  ""${funcname}""  0);
+    PyDict_SetItemString(d  ${docstring}  ""${module}"" 
+            PyUFunc_None  ${n_out}  ${n_in}  1  ${funcname}_types  ${funcname}_data ufunc${ind} = PyUFunc_FromFuncAndData(${funcname}_funcs"
+343,Template,"def configuration(parent_package='', top_path=None):
+    import numpy
+    from numpy.distutils.misc_util import Configuration
+
+    config = Configuration('',
+                           parent_package,
+                           top_path)
+    config.add_extension('${module}', sources=['${module}.c', '${filename}.c'])
+
+    return config
+
+if __name__ == ""__main__"":
+    from numpy.distutils.core import setup
+    setup(configuration=configuration) ; <class 'str'>",_ufunc_setup,D:\Testing\sympy\sympy\sympy\utilities\autowrap.py,Template,6,," '${filename}.c'])
+
+    return config
+
+if __name__ == ""__main__"":
+    from numpy.distutils.core import setup
+    setup(configuration=configuration) ; <class 'str'>  sources=['${module}.c' 
+                           top_path)
+    config.add_extension('${module}' 
+                           parent_package  top_path=None):
+    import numpy
+    from numpy.distutils.misc_util import Configuration
+
+    config = Configuration('' def configuration(parent_package=''"
+344,"warnings,simplefilter","once ; <class 'str'>, SymPyDeprecationWarning ; <class 'str'>",,D:\Testing\sympy\sympy\sympy\utilities\exceptions.py,simplefilter,2,warnings, SymPyDeprecationWarning ; <class 'str'> once ; <class 'str'>
+345,getattr,"sys ; <class 'str'>, maxint ; <class 'str'>, None ; <class 'NoneType'>",size,D:\Testing\sympy\sympy\sympy\utilities\misc.py,getattr,3,, None ; <class 'NoneType'>  maxint ; <class 'str'> sys ; <class 'str'>
+346,getattr,"<ast.Name object at 0x0000022BADD7A2B0> ; <class 'ast.Name'>, hash_randomization ; <class 'str'>, False ; <class 'bool'>",HASH_RANDOMIZATION,D:\Testing\sympy\sympy\sympy\utilities\misc.py,getattr,3,, False ; <class 'bool'>  hash_randomization ; <class 'str'> <ast.Name object at 0x0000022BADD7A2B0> ; <class 'ast.Name'>
+352,property,"_get_data ; <class 'str'>, _set_data ; <class 'str'>",data,D:\Testing\syrusakbary\Flask-SuperAdmin\flask_superadmin\model\backends\mongoengine\fields.py,property,2,,"_get_data ; <class 'str'>, _set_data ; <class 'str'>"
+353,property,"_get_data ; <class 'str'>, _set_data ; <class 'str'>",data,D:\Testing\syrusakbary\Flask-SuperAdmin\flask_superadmin\model\backends\mongoengine\fields.py,property,2,,"_get_data ; <class 'str'>, _set_data ; <class 'str'>"
+354,"register,filter","__pyjade_iter ; <class 'str'>, iteration ; <class 'str'>",,D:\Testing\syrusakbary\pyjade\pyjade\ext\django\templatetags.py,filter,2,register, iteration ; <class 'str'> __pyjade_iter ; <class 'str'>
+355,open,"/proc/uptime ; <class 'str'>, r ; <class 'str'>",f,D:\Testing\systemd-cron\systemd-cron\src\bin\boot_delay.py,open,2,, r ; <class 'str'> /proc/uptime ; <class 'str'>
+361,"pycastC_errors_baseerrormeasure_BaseErrorMeasure,add_function","initialize ; <class 'str'>, , List_value ; List",,D:\Testing\T-002\pycast\bin\helper\generate-bindings.py,add_function,3,pycastC_errors_baseerrormeasure_BaseErrorMeasure, List_value ; List   initialize ; <class 'str'>
+372,NodeStructureChecker,"TEXT_PRELUDE ; <class 'str'>, TEXT_CONTENT_STREAM ; <class 'str'>, TEXT_EPILOGUE ; <class 'str'>",StreamTextBodyChecker,D:\Testing\T0ha\ezodf\ezodf\nodestructurechecker.py,NodeStructureChecker,3,, TEXT_EPILOGUE ; <class 'str'>  TEXT_CONTENT_STREAM ; <class 'str'> TEXT_PRELUDE ; <class 'str'>
+373,NodeStructureChecker,"TEXT_PRELUDE ; <class 'str'>, TEXT_CONTENT_PAGED ; <class 'str'>, TEXT_EPILOGUE ; <class 'str'>",PagedTextBodyChecker,D:\Testing\T0ha\ezodf\ezodf\nodestructurechecker.py,NodeStructureChecker,3,, TEXT_EPILOGUE ; <class 'str'>  TEXT_CONTENT_PAGED ; <class 'str'> TEXT_PRELUDE ; <class 'str'>
+397,property,"_getkey ; <class 'str'>, _setkey ; <class 'str'>, _delkey ; <class 'str'>, key function ;<class 'str'>",key,D:\Testing\tabatkins\bikeshed\bikeshed\SortedList.py,property,4,, key function ;<class 'str'>  _delkey ; <class 'str'>  _setkey ; <class 'str'> _getkey ; <class 'str'>
+398,"Loader,add_constructor","tag:yaml.org,2002:str ; <class 'str'>, construct_yaml_str ; <class 'str'>",,D:\Testing\tableau\VizAlerts\tabUtil\__init__.py,add_constructor,3,Loader, construct_yaml_str ; <class 'str'> 2002:str ; <class 'str'> tag:yaml.org
+399,"SafeLoader,add_constructor","tag:yaml.org,2002:str ; <class 'str'>, construct_yaml_str ; <class 'str'>",,D:\Testing\tableau\VizAlerts\tabUtil\__init__.py,add_constructor,3,SafeLoader, construct_yaml_str ; <class 'str'> 2002:str ; <class 'str'> tag:yaml.org
+401,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\tadeas\fastjsonrpc\tests\test_netstringclient.py,insert,2,sys,0 ; <class 'int'>
+402,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\tadeas\fastjsonrpc\tests\test_server.py,insert,2,sys,0 ; <class 'int'>
+404,"shutil,copy",", ",,D:\Testing\tailhook\pyzza\backport\main.py,copy,2,shutil,26/pyzza ; <class 'str'>
+405,"shutil,copy",", ",,D:\Testing\tailhook\pyzza\backport\main.py,copy,2,shutil,26/pyzza ; <class 'str'>
+406,"shutil,copy",", ",,D:\Testing\tailhook\pyzza\backport\main.py,copy,2,shutil,26/pyzza ; <class 'str'>
+407,"shutil,copy",", ",,D:\Testing\tailhook\pyzza\backport\main.py,copy,2,shutil,26/pyzza ; <class 'str'>
+408,"shutil,copytree",", ",,D:\Testing\tailhook\pyzza\backport\main.py,copytree,2,shutil,26/pyzza ; <class 'str'>
+412,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\takluyver\pynsist\doc\conf.py,insert,2,sys,0 ; <class 'int'>
+413,pjoin,"test_dir ; <class 'str'>, sample_preamble.py ; <class 'str'>",sample_preamble,D:\Testing\takluyver\pynsist\nsist\tests\test_installerbuilder.py,pjoin,2,, sample_preamble.py ; <class 'str'> test_dir ; <class 'str'>
+414,GPSLocation,"1 ;<class 'int'>, 2 ;<class 'int'>",mock_location,D:\Testing\tals\uber.py\tests\test_client.py,GPSLocation,2,, 2 ;<class 'int'> 1 ;<class 'int'>
+455,ModelField,"webView ;<class 'str'>, WebView ; <class 'str'>",web_view,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,webView ;<class 'str'>
+457,ModelField,"fare ;<class 'str'>, Fare ; <class 'str'>",fare,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,fare ;<class 'str'>
+458,ListField,"mapImages ;<class 'str'>, Image ; <class 'str'>",map_images,D:\Testing\tals\uber.py\uber\models.py,ListField,2,,mapImages ;<class 'str'>
+459,ListField,"monoImages ;<class 'str'>, Image ; <class 'str'>",mono_images,D:\Testing\tals\uber.py\uber\models.py,ListField,2,,monoImages ;<class 'str'>
+466,ModelField,"surge ;<class 'str'>, Surge ; <class 'str'>",surge,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,surge ;<class 'str'>
+474,DictField,"vehicleViews ;<class 'str'>, VehicleView ; <class 'str'>",vehicle_views,D:\Testing\tals\uber.py\uber\models.py,DictField,2,,vehicleViews ;<class 'str'>
+481,DictField,"vehiclePaths ;<class 'str'>, ",vehicle_paths,D:\Testing\tals\uber.py\uber\models.py,DictField,2,,vehiclePaths ;<class 'str'>
+495,ModelField,"location ;<class 'str'>, SimpleLocation ; <class 'str'>",location,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,location ;<class 'str'>
+509,ModelField,"vehicleType ;<class 'str'>, VehicleType ; <class 'str'>",vehicle_type,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,vehicleType ;<class 'str'>
+517,ListField,"vehiclePath ;<class 'str'>, VehicleLocation ; <class 'str'>",vehicle_path,D:\Testing\tals\uber.py\uber\models.py,ListField,2,,vehiclePath ;<class 'str'>
+518,ModelField,"driver ;<class 'str'>, Driver ; <class 'str'>",driver,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,driver ;<class 'str'>
+519,ModelField,"vehicle ;<class 'str'>, Vehicle ; <class 'str'>",vehicle,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,vehicle ;<class 'str'>
+521,ListField,"feedbackTypes ;<class 'str'>, FeedbackType ; <class 'str'>",feedback_types,D:\Testing\tals\uber.py\uber\models.py,ListField,2,,feedbackTypes ;<class 'str'>
+533,ListField,"creditBalances ;<class 'str'>, CreditBalance ; <class 'str'>",credit_balances,D:\Testing\tals\uber.py\uber\models.py,ListField,2,,creditBalances ;<class 'str'>
+534,ListField,"paymentProfiles ;<class 'str'>, PaymentProfile ; <class 'str'>",payment_profiles,D:\Testing\tals\uber.py\uber\models.py,ListField,2,,paymentProfiles ;<class 'str'>
+559,ModelField,"city ;<class 'str'>, City ; <class 'str'>",city,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,city ;<class 'str'>
+560,DictField,"nearbyVehicles ;<class 'str'>, NearbyVehicles ; <class 'str'>",nearby_vehicles,D:\Testing\tals\uber.py\uber\models.py,DictField,2,,nearbyVehicles ;<class 'str'>
+561,ModelField,"client ;<class 'str'>, Client ; <class 'str'>",client,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,client ;<class 'str'>
+562,ModelField,"trip ;<class 'str'>, Trip ; <class 'str'>",trip,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,trip ;<class 'str'>
+563,ModelField,"apiResponse ;<class 'str'>, ApiResponse ; <class 'str'>",api_response,D:\Testing\tals\uber.py\uber\models.py,ModelField,2,,apiResponse ;<class 'str'>

@@ -1,0 +1,451 @@
+,index,M_Call_Name,M_Call_Arg,Receiver_var,File_Name_x,MethodName,M_Call_Arg_len,Swap_arg_listing,MethodClass,M_D_Name,M_D_Arg,File_Name_y,Class_name,M_D_Arg_len,File_Name_without_extension
+0,0,adapts,"IRequest ; <class 'str'>, ISettings ; <class 'str'>",,D:\Testing\00\wikihouse\asset.py,adapts,2, ISettings ; <class 'str'> IRequest ; <class 'str'>,,,,,,,
+5,5,"yaml,add_representer","MyOrderedDict ; <class 'str'>, ",,D:\Testing\0k\shyaml\shyaml.py,add_representer,2,MyOrderedDict ; <class 'str'>,yaml,,,,,,
+6,6,"yaml,add_constructor","<ast.Attribute object at 0x000001703F151760> ; <class 'ast.Attribute'>, ",,D:\Testing\0k\shyaml\shyaml.py,add_constructor,2,<ast.Attribute object at 0x000001703F151760> ; <class 'ast.Attribute'>,yaml,,,,,,
+7,7,Fingerprint,"Dart ; <class 'str'>, Dart Image 1.1.21 https://pub.dartlang.org/packages/image ; <class 'str'>, ",dart,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Dart Image 1.1.21 https://pub.dartlang.org/packages/image ; <class 'str'> Dart ; <class 'str'>,,,,,,,
+8,8,Fingerprint,".Net 4.5 ; <class 'str'>, .Net 4.5 ; <class 'str'>, ",dotnet,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, .Net 4.5 ; <class 'str'> .Net 4.5 ; <class 'str'>,,,,,,,
+9,9,Fingerprint,"Erlang erl_img ; <class 'str'>, Erlang erl_img evanmiller fork https://github.com/evanmiller/erl_img ; <class 'str'>, ",erlang,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Erlang erl_img evanmiller fork https://github.com/evanmiller/erl_img ; <class 'str'> Erlang erl_img ; <class 'str'>,,,,,,,
+10,10,Fingerprint,"Go 1.0.2 ; <class 'str'>, go 1.0.2 ; <class 'str'>, ",golang,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, go 1.0.2 ; <class 'str'> Go 1.0.2 ; <class 'str'>,,,,,,,
+11,11,Fingerprint,"Haskell JuicyPixels ; <class 'str'>, Haskell JuicyPixels 3.1.5.2 https://hackage.haskell.org/package/JuicyPixels ; <class 'str'>, ",haskelljuicy,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Haskell JuicyPixels 3.1.5.2 https://hackage.haskell.org/package/JuicyPixels ; <class 'str'> Haskell JuicyPixels ; <class 'str'>,,,,,,,
+12,12,Fingerprint,"ImageMagick ; <class 'str'>, ImageMagick 6.7.7-10 2013-09-10 Q16 ; <class 'str'>, ",imagemagick,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, ImageMagick 6.7.7-10 2013-09-10 Q16 ; <class 'str'> ImageMagick ; <class 'str'>,,,,,,,
+13,13,Fingerprint,"OpenJDK 7 ; <class 'str'>, OpenJDK Runtime Environment (IcedTea 2.3.9) (7u21-2.3.9-1ubuntu1) ; <class 'str'>, ",java7,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, OpenJDK Runtime Environment (IcedTea 2.3.9) (7u21-2.3.9-1ubuntu1) ; <class 'str'> OpenJDK 7 ; <class 'str'>,,,,,,,
+14,14,Fingerprint,"LodePNG ; <class 'str'>, LodePNG 20140609 ; <class 'str'>, ",lodepng,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, LodePNG 20140609 ; <class 'str'> LodePNG ; <class 'str'>,,,,,,,
+15,15,Fingerprint,"Mono ; <class 'str'>, Mono JIT compiler version 2.10.8.1 (Debian 2.10.8.1-5ubuntu1) ; <class 'str'>, ",mono,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Mono JIT compiler version 2.10.8.1 (Debian 2.10.8.1-5ubuntu1) ; <class 'str'> Mono ; <class 'str'>,,,,,,,
+16,16,Fingerprint,"PHP5 ; <class 'str'>, PHP 5.4.9-4ubuntu2.4 (cli) (built: Dec 12 2013 04:29:20) ; <class 'str'>, ",php5,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, PHP 5.4.9-4ubuntu2.4 (cli) (built: Dec 12 2013 04:29:20) ; <class 'str'> PHP5 ; <class 'str'>,,,,,,,
+17,17,Fingerprint,"Nodejs pngjs ; <class 'str'>, Nodejs pngjs 0.4.0 https://github.com/niegowski/node-pngjs/ ; <class 'str'>, ",pngjs,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Nodejs pngjs 0.4.0 https://github.com/niegowski/node-pngjs/ ; <class 'str'> Nodejs pngjs ; <class 'str'>,,,,,,,
+18,18,Fingerprint,"Python PIL ; <class 'str'>, Python PIL 1.1.17 ; <class 'str'>, ",pythonpil,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Python PIL 1.1.17 ; <class 'str'> Python PIL ; <class 'str'>,,,,,,,
+19,19,Fingerprint,"Python png.py ; <class 'str'>, Python png.py http://pypng.googlecode.com/svn/trunk/code/png.py ; <class 'str'>, ",pythonpng,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Python png.py http://pypng.googlecode.com/svn/trunk/code/png.py ; <class 'str'> Python png.py ; <class 'str'>,,,,,,,
+20,20,Fingerprint,"Ruby chunky_png ; <class 'str'>, Ruby chunky_png 1.3.1 https://rubygems.org/gems/chunky_png ; <class 'str'>, ",rubychunky,D:\Testing\0xcite\fingerping\fingerprints.py,Fingerprint,3, Ruby chunky_png 1.3.1 https://rubygems.org/gems/chunky_png ; <class 'str'> Ruby chunky_png ; <class 'str'>,,,,,,,
+31,31,datetime,"1 ; <class 'int'>, 3 ; <class 'int'>, 8 ; <class 'int'>, 2 ; <class 'int'>",DSTSTART_2007,D:\Testing\2cloud\AppEngine\timestamp.py,datetime,4, 2 ; <class 'int'>  8 ; <class 'int'>  3 ; <class 'int'> 1 ; <class 'int'>,,,,,,,
+32,32,datetime,"1 ; <class 'int'>, 11 ; <class 'int'>, 1 ; <class 'int'>, 1 ; <class 'int'>",DSTEND_2007,D:\Testing\2cloud\AppEngine\timestamp.py,datetime,4, 1 ; <class 'int'>  1 ; <class 'int'>  11 ; <class 'int'> 1 ; <class 'int'>,,,,,,,
+33,33,datetime,"1 ; <class 'int'>, 4 ; <class 'int'>, 1 ; <class 'int'>, 2 ; <class 'int'>",DSTSTART_1987_2006,D:\Testing\2cloud\AppEngine\timestamp.py,datetime,4, 2 ; <class 'int'>  1 ; <class 'int'>  4 ; <class 'int'> 1 ; <class 'int'>,,,,,,,
+34,34,datetime,"1 ; <class 'int'>, 10 ; <class 'int'>, 25 ; <class 'int'>, 1 ; <class 'int'>",DSTEND_1987_2006,D:\Testing\2cloud\AppEngine\timestamp.py,datetime,4, 1 ; <class 'int'>  25 ; <class 'int'>  10 ; <class 'int'> 1 ; <class 'int'>,,,,,,,
+35,35,datetime,"1 ; <class 'int'>, 4 ; <class 'int'>, 24 ; <class 'int'>, 2 ; <class 'int'>",DSTSTART_1967_1986,D:\Testing\2cloud\AppEngine\timestamp.py,datetime,4, 2 ; <class 'int'>  24 ; <class 'int'>  4 ; <class 'int'> 1 ; <class 'int'>,,,,,,,
+36,36,USTimeZone,", Pacific ; <class 'str'>, PST ; <class 'str'>, PDT ; <class 'str'>",Pacific,D:\Testing\2cloud\AppEngine\timestamp.py,USTimeZone,4, PDT ; <class 'str'>  PST ; <class 'str'>  Pacific ; <class 'str'> ,,,,,,,
+37,37,"admin,site,register","Metric ; <class 'str'>, MetricAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\metrics\admin.py,register,2, MetricAdmin ; <class 'str'> Metric ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+38,38,"admin,site,register","MetricValue ; <class 'str'>, MetricValueAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\metrics\admin.py,register,2, MetricValueAdmin ; <class 'str'> MetricValue ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+39,39,patterns," ; <class 'str'>, , , , , , , , , , ",urlpatterns,D:\Testing\2gis\badger-api\pycd\urls.py,patterns,11, ; <class 'str'>,,,,,,,
+40,40,"router,register","projects ; <class 'str'>, ProjectViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, ProjectViewSet ; <class 'str'> projects ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+41,41,"router,register","testplans ; <class 'str'>, TestPlanViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, TestPlanViewSet ; <class 'str'> testplans ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+42,42,"router,register","launches ; <class 'str'>, LaunchViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, LaunchViewSet ; <class 'str'> launches ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+43,43,"router,register","testresults ; <class 'str'>, TestResultViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, TestResultViewSet ; <class 'str'> testresults ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+44,44,"router,register","launch-items ; <class 'str'>, LaunchItemViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, LaunchItemViewSet ; <class 'str'> launch-items ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+45,45,"router,register","tasks ; <class 'str'>, TaskResultViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, TaskResultViewSet ; <class 'str'> tasks ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+46,46,"router,register","comments ; <class 'str'>, CommentViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, CommentViewSet ; <class 'str'> comments ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+47,47,"router,register","bugs ; <class 'str'>, BugViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, BugViewSet ; <class 'str'> bugs ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+48,48,"router,register","stages ; <class 'str'>, StageViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, StageViewSet ; <class 'str'> stages ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+49,49,"router,register","metrics ; <class 'str'>, MetricViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, MetricViewSet ; <class 'str'> metrics ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+50,50,"router,register","metricvalues ; <class 'str'>, MetricValueViewSet ; <class 'str'>",,D:\Testing\2gis\badger-api\pycd\urls.py,register,2, MetricValueViewSet ; <class 'str'> metricvalues ; <class 'str'>,router,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+51,51,"admin,site,register","Stage ; <class 'str'>, StageAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\stages\admin.py,register,2, StageAdmin ; <class 'str'> Stage ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+53,53,"admin,site,register","LaunchItem ; <class 'str'>, LaunchItemAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\testreport\admin.py,register,2, LaunchItemAdmin ; <class 'str'> LaunchItem ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+54,54,"admin,site,register","Project ; <class 'str'>, ProjectAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\testreport\admin.py,register,2, ProjectAdmin ; <class 'str'> Project ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+55,55,"admin,site,register","Settings ; <class 'str'>, ProjectAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\testreport\admin.py,register,2, ProjectAdmin ; <class 'str'> Settings ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+56,56,"admin,site,register","Launch ; <class 'str'>, LaunchAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\testreport\admin.py,register,2, LaunchAdmin ; <class 'str'> Launch ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+57,57,"admin,site,register","TestPlan ; <class 'str'>, TestPlanAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\testreport\admin.py,register,2, TestPlanAdmin ; <class 'str'> TestPlan ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+58,58,"admin,site,register","TestResult ; <class 'str'>, TestResultAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\testreport\admin.py,register,2, TestResultAdmin ; <class 'str'> TestResult ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+59,59,"admin,site,register","Bug ; <class 'str'>, BugAdmin ; <class 'str'>",,D:\Testing\2gis\badger-api\testreport\admin.py,register,2, BugAdmin ; <class 'str'> Bug ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+60,60,"admin,site,register","UserParameter ; <class 'str'>, UserParameterAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, UserParameterAdmin ; <class 'str'> UserParameter ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+61,61,"admin,site,register","OrganizationParameter ; <class 'str'>, OrganizationParameterAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, OrganizationParameterAdmin ; <class 'str'> OrganizationParameter ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+62,62,"admin,site,register","ParameterList ; <class 'str'>, ParameterListAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, ParameterListAdmin ; <class 'str'> ParameterList ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+63,63,"admin,site,register","Task ; <class 'str'>, TaskAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, TaskAdmin ; <class 'str'> Task ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+64,64,"admin,site,register","Worker ; <class 'str'>, WorkerAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, WorkerAdmin ; <class 'str'> Worker ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+65,65,"admin,site,register","Workflow ; <class 'str'>, WorkflowAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, WorkflowAdmin ; <class 'str'> Workflow ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+66,66,"admin,site,register","WorkflowTask ; <class 'str'>, WorkflowTaskAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, WorkflowTaskAdmin ; <class 'str'> WorkflowTask ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+67,67,"admin,site,register","WorkflowLog ; <class 'str'>, WorkflowLogAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, WorkflowLogAdmin ; <class 'str'> WorkflowLog ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+68,68,"admin,site,register","WorkflowPreset ; <class 'str'>, WorkflowPresetAdmin ; <class 'str'>",,D:\Testing\3bot\3bot\threebot\admin.py,register,2, WorkflowPresetAdmin ; <class 'str'> WorkflowPreset ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+69,69,"sqlite3,register_converter","timestamp ; <class 'str'>, convert_timestamp ; <class 'str'>",,D:\Testing\55minutes\python-epo-ops-client\epo_ops\middlewares\throttle\storages\sqlite.py,register_converter,2, convert_timestamp ; <class 'str'> timestamp ; <class 'str'>,sqlite3,,,,,,
+71,71,socket,"AF_INET ; <class 'str'>, SOCK_STREAM ; <class 'str'>",client,D:\Testing\9miao\Firefly\firefly\test\test_netconnect_client.py,socket,2, SOCK_STREAM ; <class 'str'> AF_INET ; <class 'str'>,,,,,,,
+79,79,socket,"AF_INET ; <class 'str'>, SOCK_STREAM ; <class 'str'>",client,D:\Testing\9miao\Firefly\gfirefly\test\test_netconnect_client.py,socket,2, SOCK_STREAM ; <class 'str'> AF_INET ; <class 'str'>,,,,,,,
+87,87,"parser,add_argument","-p ; <class 'str'>, --project ; <class 'str'>",,D:\Testing\Aaronontheweb\scaffold-py\scaffold\__main__.py,add_argument,2, --project ; <class 'str'> -p ; <class 'str'>,parser,,,,,,
+88,88,"parser,add_argument","-d ; <class 'str'>, --dir ; <class 'str'>",,D:\Testing\Aaronontheweb\scaffold-py\scaffold\__main__.py,add_argument,2, --dir ; <class 'str'> -d ; <class 'str'>,parser,,,,,,
+89,89,patterns,"c10ktools.views ; <class 'str'>, , , ",urlpatterns,D:\Testing\aaugustin\django-c10k-demo\c10ktools\urls.py,patterns,4,c10ktools.views ; <class 'str'>,,,,,,,
+90,90,patterns,"gameoflife.views ; <class 'str'>, , , , ",urlpatterns,D:\Testing\aaugustin\django-c10k-demo\gameoflife\urls.py,patterns,5,gameoflife.views ; <class 'str'>,,,,,,,
+91,91,"os,putenv","COPYFILE_DISABLE ; <class 'str'>, true ; <class 'str'>",,D:\Testing\aaugustin\django-pymssql\setup.py,putenv,2, true ; <class 'str'> COPYFILE_DISABLE ; <class 'str'>,os,,,,,,
+116,116,"admin,site,register","List_value ; List, LiveUserLogModelAdmin ; <class 'str'>",,D:\Testing\aaugustin\django-userlog\userlog\admin.py,register,2, LiveUserLogModelAdmin ; <class 'str'> List_value ; List,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+117,117,"admin,site,register","List_value ; List, StaticUserLogModelAdmin ; <class 'str'>",,D:\Testing\aaugustin\django-userlog\userlog\admin.py,register,2, StaticUserLogModelAdmin ; <class 'str'> List_value ; List,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+119,119,namedtuple,"UserLogSettings ; <class 'str'>, List_value ; List",UserLogSettings,D:\Testing\aaugustin\django-userlog\userlog\util.py,namedtuple,2, List_value ; List UserLogSettings ; <class 'str'>,,,,,,,
+120,120,"os,putenv","COPYFILE_DISABLE ; <class 'str'>, true ; <class 'str'>",,D:\Testing\aaugustin\websockets\setup.py,putenv,2, true ; <class 'str'> COPYFILE_DISABLE ; <class 'str'>,os,,,,,,
+172,172,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\aboutyou\aboutyou-python-sdk\doc\conf.py,insert,2,0 ; <class 'int'>,sys,,,,,,
+178,178,patterns," ; <class 'str'>, , , ",urlpatterns,D:\Testing\AcademicsToday\py-academicstoday\academicstoday_project\login\urls.py,patterns,4, ; <class 'str'>,,,,,,,
+179,179,patterns," ; <class 'str'>, , , , , , , , , , ",urlpatterns,D:\Testing\AcademicsToday\py-academicstoday\academicstoday_project\publisher\urls.py,patterns,11, ; <class 'str'>,,,,,,,
+206,206,patterns," ; <class 'str'>, , , , , , , , , , , , , , , , , , ",urlpatterns,D:\Testing\AcademicsToday\py-academicstoday\academicstoday_project\registrar\urls.py,patterns,19, ; <class 'str'>,,,,,,,
+207,207,patterns," ; <class 'str'>, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ",urlpatterns,D:\Testing\AcademicsToday\py-academicstoday\academicstoday_project\teacher\urls.py,patterns,81, ; <class 'str'>,,,,,,,
+208,208,"sys,path,insert","0 ; <class 'int'>, project_root ; <class 'str'>",,D:\Testing\acba\elm\docs\conf.py,insert,2, project_root ; <class 'str'> 0 ; <class 'int'>,sys,,,,,,
+209,209,"logger,debug","> loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\decorators.py,debug,2," __name__ ; <class 'str'> > loading python file ""%s"" ; <class 'str'>",logger,debug,'self',D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,1.0,events
+210,210,"logger,debug","> loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\decorators.py,debug,2," __name__ ; <class 'str'> > loading python file ""%s"" ; <class 'str'>",logger,debug,"'self', 'v'",D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,2.0,events
+211,211,"logger,debug","< loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\decorators.py,debug,2," __name__ ; <class 'str'> < loading python file ""%s"" ; <class 'str'>",logger,debug,'self',D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,1.0,events
+212,212,"logger,debug","< loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\decorators.py,debug,2," __name__ ; <class 'str'> < loading python file ""%s"" ; <class 'str'>",logger,debug,"'self', 'v'",D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,2.0,events
+213,213,"logger,debug","> loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\parsers.py,debug,2," __name__ ; <class 'str'> > loading python file ""%s"" ; <class 'str'>",logger,debug,'self',D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,1.0,events
+214,214,"logger,debug","> loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\parsers.py,debug,2," __name__ ; <class 'str'> > loading python file ""%s"" ; <class 'str'>",logger,debug,"'self', 'v'",D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,2.0,events
+215,215,"logger,debug","< loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\parsers.py,debug,2," __name__ ; <class 'str'> < loading python file ""%s"" ; <class 'str'>",logger,debug,'self',D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,1.0,events
+216,216,"logger,debug","< loading python file ""%s"" ; <class 'str'>, __name__ ; <class 'str'>",,D:\Testing\accerqueira\sublime-test-runner\test_runner\parsers.py,debug,2," __name__ ; <class 'str'> < loading python file ""%s"" ; <class 'str'>",logger,debug,"'self', 'v'",D:\Testing\0rpc\zerorpc-python\zerorpc\events.py,Events,2.0,events
+219,219,pyproperty,"GetName ; <class 'str'>, SetName ; <class 'str'>",name,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetName ; <class 'str'>, SetName ; <class 'str'>",,,,,,,
+220,220,pyproperty,"GetFrom ; <class 'str'>, SetFrom ; <class 'str'>",from_address,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetFrom ; <class 'str'>, SetFrom ; <class 'str'>",,,,,,,
+221,221,pyproperty,"GetTo ; <class 'str'>, SetTo ; <class 'str'>",to_address,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetTo ; <class 'str'>, SetTo ; <class 'str'>",,,,,,,
+222,222,pyproperty,"GetSubject ; <class 'str'>, SetSubject ; <class 'str'>",subject,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetSubject ; <class 'str'>, SetSubject ; <class 'str'>",,,,,,,
+223,223,pyproperty,"GetHasTheWord ; <class 'str'>, SetHasTheWord ; <class 'str'>",has_the_word,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetHasTheWord ; <class 'str'>, SetHasTheWord ; <class 'str'>",,,,,,,
+224,224,pyproperty,"GetDoesNotHaveTheWord ; <class 'str'>, SetDoesNotHaveTheWord ; <class 'str'>",does_not_have_the_word,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetDoesNotHaveTheWord ; <class 'str'>, SetDoesNotHaveTheWord ; <class 'str'>",,,,,,,
+225,225,pyproperty,"GetHasAttachments ; <class 'str'>, SetHasAttachments ; <class 'str'>",has_attachments,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetHasAttachments ; <class 'str'>, SetHasAttachments ; <class 'str'>",,,,,,,
+226,226,pyproperty,"GetLabel ; <class 'str'>, SetLabel ; <class 'str'>",label,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetLabel ; <class 'str'>, SetLabel ; <class 'str'>",,,,,,,
+227,227,pyproperty,"GetMarkAsRead ; <class 'str'>, SetMarkAsRead ; <class 'str'>",mark_as_read,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetMarkAsRead ; <class 'str'>, SetMarkAsRead ; <class 'str'>",,,,,,,
+228,228,pyproperty,"GetArchive ; <class 'str'>, SetArchive ; <class 'str'>",archive,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetArchive ; <class 'str'>, SetArchive ; <class 'str'>",,,,,,,
+229,229,pyproperty,"GetName ; <class 'str'>, SetName ; <class 'str'>",name,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetName ; <class 'str'>, SetName ; <class 'str'>",,,,,,,
+230,230,pyproperty,"GetAddress ; <class 'str'>, SetAddress ; <class 'str'>",address,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetAddress ; <class 'str'>, SetAddress ; <class 'str'>",,,,,,,
+231,231,pyproperty,"GetReplyTo ; <class 'str'>, SetReplyTo ; <class 'str'>",reply_to,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetReplyTo ; <class 'str'>, SetReplyTo ; <class 'str'>",,,,,,,
+232,232,pyproperty,"GetMakeDefault ; <class 'str'>, SetMakeDefault ; <class 'str'>",make_default,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetMakeDefault ; <class 'str'>, SetMakeDefault ; <class 'str'>",,,,,,,
+233,233,pyproperty,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",enable,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",,,,,,,
+234,234,pyproperty,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",enable,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",,,,,,,
+235,235,pyproperty,"GetForwardTo ; <class 'str'>, SetForwardTo ; <class 'str'>",forward_to,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetForwardTo ; <class 'str'>, SetForwardTo ; <class 'str'>",,,,,,,
+236,236,pyproperty,"GetAction ; <class 'str'>, SetAction ; <class 'str'>",action,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetAction ; <class 'str'>, SetAction ; <class 'str'>",,,,,,,
+237,237,pyproperty,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",enable,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",,,,,,,
+238,238,pyproperty,"GetEnableFor ; <class 'str'>, SetEnableFor ; <class 'str'>",enable_for,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetEnableFor ; <class 'str'>, SetEnableFor ; <class 'str'>",,,,,,,
+239,239,pyproperty,"GetPopAction ; <class 'str'>, SetPopAction ; <class 'str'>",action,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetPopAction ; <class 'str'>, SetPopAction ; <class 'str'>",,,,,,,
+240,240,pyproperty,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",enable,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",,,,,,,
+241,241,pyproperty,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",enable,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetEnable ; <class 'str'>, SetEnable ; <class 'str'>",,,,,,,
+242,242,pyproperty,"GetSubject ; <class 'str'>, SetSubject ; <class 'str'>",subject,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetSubject ; <class 'str'>, SetSubject ; <class 'str'>",,,,,,,
+243,243,pyproperty,"GetMessage ; <class 'str'>, SetMessage ; <class 'str'>",message,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetMessage ; <class 'str'>, SetMessage ; <class 'str'>",,,,,,,
+244,244,pyproperty,"GetStartDate ; <class 'str'>, SetStartDate ; <class 'str'>",start_date,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetStartDate ; <class 'str'>, SetStartDate ; <class 'str'>",,,,,,,
+245,245,pyproperty,"GetEndDate ; <class 'str'>, SetEndDate ; <class 'str'>",end_date,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetEndDate ; <class 'str'>, SetEndDate ; <class 'str'>",,,,,,,
+246,246,pyproperty,"GetContactsOnly ; <class 'str'>, SetContactsOnly ; <class 'str'>",contacts_only,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetContactsOnly ; <class 'str'>, SetContactsOnly ; <class 'str'>",,,,,,,
+247,247,pyproperty,"GetDomainOnly ; <class 'str'>, SetDomainOnly ; <class 'str'>",domain_only,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetDomainOnly ; <class 'str'>, SetDomainOnly ; <class 'str'>",,,,,,,
+248,248,pyproperty,"GetValue ; <class 'str'>, SetValue ; <class 'str'>",signature_value,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetValue ; <class 'str'>, SetValue ; <class 'str'>",,,,,,,
+249,249,pyproperty,"GetLanguage ; <class 'str'>, SetLanguage ; <class 'str'>",language_tag,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetLanguage ; <class 'str'>, SetLanguage ; <class 'str'>",,,,,,,
+250,250,pyproperty,"GetPageSize ; <class 'str'>, SetPageSize ; <class 'str'>",page_size,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetPageSize ; <class 'str'>, SetPageSize ; <class 'str'>",,,,,,,
+251,251,pyproperty,"GetShortcuts ; <class 'str'>, SetShortcuts ; <class 'str'>",shortcuts,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetShortcuts ; <class 'str'>, SetShortcuts ; <class 'str'>",,,,,,,
+252,252,pyproperty,"GetArrows ; <class 'str'>, SetArrows ; <class 'str'>",arrows,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetArrows ; <class 'str'>, SetArrows ; <class 'str'>",,,,,,,
+253,253,pyproperty,"GetSnippets ; <class 'str'>, SetSnippets ; <class 'str'>",snippets,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetSnippets ; <class 'str'>, SetSnippets ; <class 'str'>",,,,,,,
+254,254,pyproperty,"GetUnicode ; <class 'str'>, SetUnicode ; <class 'str'>",use_unicode,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetUnicode ; <class 'str'>, SetUnicode ; <class 'str'>",,,,,,,
+255,255,pyproperty,"GetAddress ; <class 'str'>, SetAddress ; <class 'str'>",address,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\apps\emailsettings\data.py,pyproperty,2,"GetAddress ; <class 'str'>, SetAddress ; <class 'str'>",,,,,,,
+257,257,pyproperty,"GetResourceId ; <class 'str'>, SetResourceId ; <class 'str'>",resource_id,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\calendar_resource\data.py,pyproperty,2,"GetResourceId ; <class 'str'>, SetResourceId ; <class 'str'>",,,,,,,
+258,258,pyproperty,"GetResourceCommonName ; <class 'str'>, SetResourceCommonName ; <class 'str'>",resource_common_name,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\calendar_resource\data.py,pyproperty,2,"GetResourceCommonName ; <class 'str'>, SetResourceCommonName ; <class 'str'>",,,,,,,
+259,259,pyproperty,"GetResourceDescription ; <class 'str'>, SetResourceDescription ; <class 'str'>",resource_description,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\calendar_resource\data.py,pyproperty,2,"GetResourceDescription ; <class 'str'>, SetResourceDescription ; <class 'str'>",,,,,,,
+260,260,pyproperty,"GetResourceType ; <class 'str'>, SetResourceType ; <class 'str'>",resource_type,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\calendar_resource\data.py,pyproperty,2,"GetResourceType ; <class 'str'>, SetResourceType ; <class 'str'>",,,,,,,
+266,266,property,"portfolio_title ; <class 'str'>, set_portfolio_title ; <class 'str'>",portfolio_title,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\finance\__init__.py,property,2,"portfolio_title ; <class 'str'>, set_portfolio_title ; <class 'str'>",,,,,,,
+270,270,property,"__get_signature_method ; <class 'str'>, __set_signature_method ; <class 'str'>",_signature_method,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\auth.py,property,2,"__get_signature_method ; <class 'str'>, __set_signature_method ; <class 'str'>",,,,,,,
+281,281,property,"__GetId ; <class 'str'>, __SetId ; <class 'str'>",id,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\__init__.py,property,2,"__GetId ; <class 'str'>, __SetId ; <class 'str'>",,,,,,,
+282,282,property,"__GetId ; <class 'str'>, __SetId ; <class 'str'>",id,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\__init__.py,property,2,"__GetId ; <class 'str'>, __SetId ; <class 'str'>",,,,,,,
+283,283,property,"__GetGenerator ; <class 'str'>, __SetGenerator ; <class 'str'>",generator,D:\Testing\acil-bwh\SlicerCIP\Scripted\attic\PicasaSnap\gdata\__init__.py,property,2,"__GetGenerator ; <class 'str'>, __SetGenerator ; <class 'str'>",,,,,,,
+287,287,Post,"First post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\custom\blog.py,Post,2,First post ; <class 'str'>,,,,,,,
+288,288,Post,"First post ; <class 'str'>, This is the first awesome post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\custom\blog.py,Post,3, This is the first awesome post ; <class 'str'> First post ; <class 'str'>,,,,,,,
+289,289,Post,"First post ; <class 'str'>, This is the first awesome post ; <class 'str'>, u ; <class 'str'>",,D:\Testing\acoomans\flask-autodoc\examples\custom\blog.py,Post,3, u ; <class 'str'>  This is the first awesome post ; <class 'str'> First post ; <class 'str'>,,,,,,,
+290,290,Post,"Second post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\custom\blog.py,Post,2,Second post ; <class 'str'>,,,,,,,
+291,291,Post,"Second post ; <class 'str'>, This is another even more awesome post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\custom\blog.py,Post,3, This is another even more awesome post ; <class 'str'> Second post ; <class 'str'>,,,,,,,
+292,292,Post,"Second post ; <class 'str'>, This is another even more awesome post ; <class 'str'>, u ; <class 'str'>",,D:\Testing\acoomans\flask-autodoc\examples\custom\blog.py,Post,3, u ; <class 'str'>  This is another even more awesome post ; <class 'str'> Second post ; <class 'str'>,,,,,,,
+293,293,Blueprint,"admin ; <class 'str'>, __name__ ; <class 'str'>",admin,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\admin.py,Blueprint,2, __name__ ; <class 'str'> admin ; <class 'str'>,,,,,,,
+294,294,Blueprint,"frontend ; <class 'str'>, __name__ ; <class 'str'>",frontend,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\frontend.py,Blueprint,2, __name__ ; <class 'str'> frontend ; <class 'str'>,,,,,,,
+296,296,Post,"First post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\frontend.py,Post,2,First post ; <class 'str'>,,,,,,,
+297,297,Post,"First post ; <class 'str'>, This is the first awesome post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\frontend.py,Post,3, This is the first awesome post ; <class 'str'> First post ; <class 'str'>,,,,,,,
+298,298,Post,"First post ; <class 'str'>, This is the first awesome post ; <class 'str'>, u ; <class 'str'>",,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\frontend.py,Post,3, u ; <class 'str'>  This is the first awesome post ; <class 'str'> First post ; <class 'str'>,,,,,,,
+299,299,Post,"Second post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\frontend.py,Post,2,Second post ; <class 'str'>,,,,,,,
+300,300,Post,"Second post ; <class 'str'>, This is another even more awesome post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\frontend.py,Post,3, This is another even more awesome post ; <class 'str'> Second post ; <class 'str'>,,,,,,,
+301,301,Post,"Second post ; <class 'str'>, This is another even more awesome post ; <class 'str'>, u ; <class 'str'>",,D:\Testing\acoomans\flask-autodoc\examples\factory\blog\frontend.py,Post,3, u ; <class 'str'>  This is another even more awesome post ; <class 'str'> Second post ; <class 'str'>,,,,,,,
+305,305,Post,"First post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\simple\blog.py,Post,2,First post ; <class 'str'>,,,,,,,
+306,306,Post,"First post ; <class 'str'>, This is the first awesome post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\simple\blog.py,Post,3, This is the first awesome post ; <class 'str'> First post ; <class 'str'>,,,,,,,
+307,307,Post,"First post ; <class 'str'>, This is the first awesome post ; <class 'str'>, u ; <class 'str'>",,D:\Testing\acoomans\flask-autodoc\examples\simple\blog.py,Post,3, u ; <class 'str'>  This is the first awesome post ; <class 'str'> First post ; <class 'str'>,,,,,,,
+308,308,Post,"Second post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\simple\blog.py,Post,2,Second post ; <class 'str'>,,,,,,,
+309,309,Post,"Second post ; <class 'str'>, This is another even more awesome post ; <class 'str'>, ",,D:\Testing\acoomans\flask-autodoc\examples\simple\blog.py,Post,3, This is another even more awesome post ; <class 'str'> Second post ; <class 'str'>,,,,,,,
+310,310,Post,"Second post ; <class 'str'>, This is another even more awesome post ; <class 'str'>, u ; <class 'str'>",,D:\Testing\acoomans\flask-autodoc\examples\simple\blog.py,Post,3, u ; <class 'str'>  This is another even more awesome post ; <class 'str'> Second post ; <class 'str'>,,,,,,,
+311,311,"i3,on","window::new ; <class 'str'>, on_window_open ; <class 'str'>",,D:\Testing\acrisci\i3ipc-python\examples\open-floating-on-ws.py,on,2, on_window_open ; <class 'str'> window::new ; <class 'str'>,i3,,,,,,
+345,345,Application,"demo-app ; <class 'str'>, CompanyNameHere ; <class 'str'>, 1.2 ; <class 'str'>",application,D:\Testing\ActiveState\applib\demo-app.py,Application,3, 1.2 ; <class 'str'>  CompanyNameHere ; <class 'str'> demo-app ; <class 'str'>,,,,,,,
+346,346,"sys,path,insert","0 ; <class 'int'>, ",,D:\Testing\ActiveState\applib\setup.py,insert,2,0 ; <class 'int'>,sys,,,,,,
+397,397,"lcd,create_char","1 ; <class 'int'>, List_value ; List",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,create_char,2, List_value ; List 1 ; <class 'int'>,lcd,create_char,"'self', 'location', 'pattern'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_CharLCD,3.0,Adafruit_CharLCD
+398,398,"lcd,create_char","2 ; <class 'int'>, List_value ; List",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,create_char,2, List_value ; List 2 ; <class 'int'>,lcd,create_char,"'self', 'location', 'pattern'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_CharLCD,3.0,Adafruit_CharLCD
+399,399,"lcd,create_char","3 ; <class 'int'>, List_value ; List",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,create_char,2, List_value ; List 3 ; <class 'int'>,lcd,create_char,"'self', 'location', 'pattern'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_CharLCD,3.0,Adafruit_CharLCD
+400,400,"lcd,create_char","4 ; <class 'int'>, List_value ; List",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,create_char,2, List_value ; List 4 ; <class 'int'>,lcd,create_char,"'self', 'location', 'pattern'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_CharLCD,3.0,Adafruit_CharLCD
+401,401,"lcd,create_char","5 ; <class 'int'>, List_value ; List",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,create_char,2, List_value ; List 5 ; <class 'int'>,lcd,create_char,"'self', 'location', 'pattern'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_CharLCD,3.0,Adafruit_CharLCD
+402,402,"lcd,create_char","6 ; <class 'int'>, List_value ; List",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,create_char,2, List_value ; List 6 ; <class 'int'>,lcd,create_char,"'self', 'location', 'pattern'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_CharLCD,3.0,Adafruit_CharLCD
+403,403,"lcd,create_char","7 ; <class 'int'>, List_value ; List",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,create_char,2, List_value ; List 7 ; <class 'int'>,lcd,create_char,"'self', 'location', 'pattern'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_CharLCD,3.0,Adafruit_CharLCD
+404,404,"lcd,set_color","1.0 ; <class 'float'>, 0.0 ; <class 'float'>, 0.0 ; <class 'float'>",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,set_color,3, 0.0 ; <class 'float'>  0.0 ; <class 'float'> 1.0 ; <class 'float'>,lcd,set_color,"'self', 'red', 'green', 'blue'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_RGBCharLCD,4.0,Adafruit_CharLCD
+411,411,"lcd,set_color","0.0 ; <class 'float'>, 1.0 ; <class 'float'>, 0.0 ; <class 'float'>",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,set_color,3, 0.0 ; <class 'float'>  1.0 ; <class 'float'> 0.0 ; <class 'float'>,lcd,set_color,"'self', 'red', 'green', 'blue'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_RGBCharLCD,4.0,Adafruit_CharLCD
+418,418,"lcd,set_color","0.0 ; <class 'float'>, 0.0 ; <class 'float'>, 1.0 ; <class 'float'>",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,set_color,3, 1.0 ; <class 'float'>  0.0 ; <class 'float'> 0.0 ; <class 'float'>,lcd,set_color,"'self', 'red', 'green', 'blue'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_RGBCharLCD,4.0,Adafruit_CharLCD
+425,425,"lcd,set_color","1.0 ; <class 'float'>, 1.0 ; <class 'float'>, 0.0 ; <class 'float'>",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,set_color,3, 0.0 ; <class 'float'>  1.0 ; <class 'float'> 1.0 ; <class 'float'>,lcd,set_color,"'self', 'red', 'green', 'blue'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_RGBCharLCD,4.0,Adafruit_CharLCD
+432,432,"lcd,set_color","0.0 ; <class 'float'>, 1.0 ; <class 'float'>, 1.0 ; <class 'float'>",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,set_color,3, 1.0 ; <class 'float'>  1.0 ; <class 'float'> 0.0 ; <class 'float'>,lcd,set_color,"'self', 'red', 'green', 'blue'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_RGBCharLCD,4.0,Adafruit_CharLCD
+439,439,"lcd,set_color","1.0 ; <class 'float'>, 0.0 ; <class 'float'>, 1.0 ; <class 'float'>",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,set_color,3, 1.0 ; <class 'float'>  0.0 ; <class 'float'> 1.0 ; <class 'float'>,lcd,set_color,"'self', 'red', 'green', 'blue'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_RGBCharLCD,4.0,Adafruit_CharLCD
+446,446,"lcd,set_color","1.0 ; <class 'float'>, 1.0 ; <class 'float'>, 1.0 ; <class 'float'>",,D:\Testing\adafruit\Adafruit_Python_CharLCD\examples\char_lcd_plate.py,set_color,3, 1.0 ; <class 'float'>  1.0 ; <class 'float'> 1.0 ; <class 'float'>,lcd,set_color,"'self', 'red', 'green', 'blue'",D:\Testing\adafruit\Adafruit_Python_CharLCD\Adafruit_CharLCD\Adafruit_CharLCD.py,Adafruit_RGBCharLCD,4.0,Adafruit_CharLCD
+462,462,collapse_spaces,"
+        CONCAT_WS(
+            ',',
+            IF(
+                (@tmp_f:=%s) > '',
+                @tmp_f,
+                NULL
+            ),
+            %s
+        )
+     ;<class 'str'>",sql_expression,D:\Testing\adamchainz\django-mysql\django_mysql\models\expressions.py,collapse_spaces,6,"
+            %s
+        )
+     ;<class 'str'> 
+                NULL
+            ) 
+                @tmp_f 
+            IF(
+                (@tmp_f:=%s) > '' ' 
+        CONCAT_WS(
+            '",,,,,,,
+463,463,collapse_spaces,"
+        CONCAT_WS(
+            ',',
+            %s,
+            IF(
+                (@tmp_f:=%s) > '',
+                @tmp_f,
+                NULL
+            )
+        )
+     ;<class 'str'>",sql_expression,D:\Testing\adamchainz\django-mysql\django_mysql\models\expressions.py,collapse_spaces,6,"
+                NULL
+            )
+        )
+     ;<class 'str'> 
+                @tmp_f 
+            IF(
+                (@tmp_f:=%s) > '' 
+            %s ' 
+        CONCAT_WS(
+            '",,,,,,,
+464,464,collapse_spaces,"
+        SUBSTRING(
+            @tmp_f:=%s,
+            1,
+            IF(
+                LOCATE(',', @tmp_f),
+                (
+                    CHAR_LENGTH(@tmp_f) -
+                    CHAR_LENGTH(SUBSTRING_INDEX(@tmp_f, ',', -1)) -
+                    1
+                ),
+                0
+            )
+        )
+     ;<class 'str'>",sql_expression,D:\Testing\adamchainz\django-mysql\django_mysql\models\expressions.py,collapse_spaces,10,"
+                0
+            )
+        )
+     ;<class 'str'>  -1)) -
+                    1
+                ) '  ' 
+                (
+                    CHAR_LENGTH(@tmp_f) -
+                    CHAR_LENGTH(SUBSTRING_INDEX(@tmp_f  @tmp_f) ' 
+            IF(
+                LOCATE(' 
+            1 
+        SUBSTRING(
+            @tmp_f:=%s",,,,,,,
+465,465,collapse_spaces,"
+        IF(
+            (@tmp_c:=LOCATE(',', @tmp_f:=%s)) > 0,
+            SUBSTRING(@tmp_f, @tmp_c + 1),
+            ''
+        )
+     ;<class 'str'>",sql_expression,D:\Testing\adamchainz\django-mysql\django_mysql\models\expressions.py,collapse_spaces,6,"
+            ''
+        )
+     ;<class 'str'>  @tmp_c + 1) 
+            SUBSTRING(@tmp_f  @tmp_f:=%s)) > 0 ' 
+        IF(
+            (@tmp_c:=LOCATE('",,,,,,,
+466,466,collapse_spaces,"
+        IF(
+            FIND_IN_SET(@tmp_val:=%s, @tmp_f:=%s),
+            @tmp_f,
+            CONCAT_WS(
+                ',',
+                IF(CHAR_LENGTH(@tmp_f), @tmp_f, NULL),
+                @tmp_val
+            )
+        )
+     ;<class 'str'>",sql_expression,D:\Testing\adamchainz\django-mysql\django_mysql\models\expressions.py,collapse_spaces,9,"
+                @tmp_val
+            )
+        )
+     ;<class 'str'>  NULL)  @tmp_f 
+                IF(CHAR_LENGTH(@tmp_f) ' 
+            CONCAT_WS(
+                ' 
+            @tmp_f  @tmp_f:=%s) 
+        IF(
+            FIND_IN_SET(@tmp_val:=%s",,,,,,,
+467,467,collapse_spaces,"
+        IF(
+            @tmp_pos:=FIND_IN_SET(%s, @tmp_f:=%s),
+            CONCAT_WS(
+                ',',
+                LEAST(
+                    @tmp_len:=(
+                        CHAR_LENGTH(@tmp_f) -
+                        CHAR_LENGTH(REPLACE(@tmp_f, ',', '')) +
+                        IF(CHAR_LENGTH(@tmp_f), 1, 0)
+                    ),
+                    NULL
+                ),
+                CASE WHEN
+                    (@tmp_before:=SUBSTRING_INDEX(@tmp_f, ',', @tmp_pos - 1))
+                    = ''
+                    THEN NULL
+                    ELSE @tmp_before
+                END,
+                CASE WHEN
+                    (@tmp_after:=
+                        SUBSTRING_INDEX(@tmp_f, ',', - (@tmp_len - @tmp_pos)))
+                    = ''
+                    THEN NULL
+                    ELSE @tmp_after
+                END
+            ),
+            @tmp_f
+        )
+     ;<class 'str'>",sql_expression,D:\Testing\adamchainz\django-mysql\django_mysql\models\expressions.py,collapse_spaces,20,"
+            @tmp_f
+        )
+     ;<class 'str'>  - (@tmp_len - @tmp_pos)))
+                    = ''
+                    THEN NULL
+                    ELSE @tmp_after
+                END
+            ) '  ' 
+                CASE WHEN
+                    (@tmp_after:=
+                        SUBSTRING_INDEX(@tmp_f  @tmp_pos - 1))
+                    = ''
+                    THEN NULL
+                    ELSE @tmp_before
+                END '  ' 
+                CASE WHEN
+                    (@tmp_before:=SUBSTRING_INDEX(@tmp_f 
+                    NULL
+                )  0)
+                    )  1  '')) +
+                        IF(CHAR_LENGTH(@tmp_f) '  ' 
+                LEAST(
+                    @tmp_len:=(
+                        CHAR_LENGTH(@tmp_f) -
+                        CHAR_LENGTH(REPLACE(@tmp_f ' 
+            CONCAT_WS(
+                '  @tmp_f:=%s) 
+        IF(
+            @tmp_pos:=FIND_IN_SET(%s",,,,,,,
+468,468,dedent,"        CREATE TABLE `{table_name}` (
+            cache_key varchar(255) CHARACTER SET utf8 COLLATE utf8_bin
+                                   NOT NULL PRIMARY KEY,
+            value longblob NOT NULL,
+            value_type char(1) CHARACTER SET latin1 COLLATE latin1_bin
+                               NOT NULL DEFAULT 'p',
+            expires BIGINT UNSIGNED NOT NULL
+        );
+     ;<class 'str'>",create_table_sql,D:\Testing\adamchainz\django-mysql\django_mysql\cache.py,dedent,4,"
+            expires BIGINT UNSIGNED NOT NULL
+        );
+     ;<class 'str'> 
+            value_type char(1) CHARACTER SET latin1 COLLATE latin1_bin
+                               NOT NULL DEFAULT 'p' 
+            value longblob NOT NULL         CREATE TABLE `{table_name}` (
+            cache_key varchar(255) CHARACTER SET utf8 COLLATE utf8_bin
+                                   NOT NULL PRIMARY KEY",,,,,,,
+469,469,collapse_spaces,"
+        SELECT value, value_type
+        FROM {table}
+        WHERE cache_key = %s AND
+              expires >= %s
+     ;<class 'str'>",_get_query,D:\Testing\adamchainz\django-mysql\django_mysql\cache.py,collapse_spaces,2," value_type
+        FROM {table}
+        WHERE cache_key = %s AND
+              expires >= %s
+     ;<class 'str'> 
+        SELECT value",,,,,,,
+470,470,collapse_spaces,"
+        SELECT cache_key, value, value_type
+        FROM {table}
+        WHERE cache_key IN %s AND
+              expires >= %s
+     ;<class 'str'>",_get_many_query,D:\Testing\adamchainz\django-mysql\django_mysql\cache.py,collapse_spaces,3," value_type
+        FROM {table}
+        WHERE cache_key IN %s AND
+              expires >= %s
+     ;<class 'str'>  value 
+        SELECT cache_key",,,,,,,
+471,471,collapse_spaces,"
+        INSERT INTO {table} (cache_key, value, value_type, expires)
+        VALUES {{VALUES_CLAUSE}}
+        ON DUPLICATE KEY UPDATE
+            value=VALUES(value),
+            value_type=VALUES(value_type),
+            expires=VALUES(expires)
+     ;<class 'str'>",_set_many_query,D:\Testing\adamchainz\django-mysql\django_mysql\cache.py,collapse_spaces,6,"
+            expires=VALUES(expires)
+     ;<class 'str'> 
+            value_type=VALUES(value_type)  expires)
+        VALUES {{VALUES_CLAUSE}}
+        ON DUPLICATE KEY UPDATE
+            value=VALUES(value)  value_type  value 
+        INSERT INTO {table} (cache_key",,,,,,,
+472,472,collapse_spaces,"
+        INSERT INTO {table} (cache_key, value, value_type, expires)
+        VALUES (%s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            value=IF(expires > @tmp_now:=%s, value, VALUES(value)),
+            value_type=IF(expires > @tmp_now, value_type, VALUES(value_type)),
+            expires=IF(
+                expires > @tmp_now,
+                IFNULL(
+                    LEAST(LAST_INSERT_ID(444), NULL),
+                    expires
+                ),
+                VALUES(expires)
+            )
+     ;<class 'str'>",_add_query,D:\Testing\adamchainz\django-mysql\django_mysql\cache.py,collapse_spaces,17,"
+                VALUES(expires)
+            )
+     ;<class 'str'> 
+                    expires
+                )  NULL) 
+                IFNULL(
+                    LEAST(LAST_INSERT_ID(444) 
+            expires=IF(
+                expires > @tmp_now  VALUES(value_type))  value_type 
+            value_type=IF(expires > @tmp_now  VALUES(value))  value  %s)
+        ON DUPLICATE KEY UPDATE
+            value=IF(expires > @tmp_now:=%s  %s  %s  expires)
+        VALUES (%s  value_type  value 
+        INSERT INTO {table} (cache_key",,,,,,,
+479,479,skipUnless,"<ast.Name object at 0x000001703F1CE220> ; <class 'ast.Name'>, Python 2 only ; <class 'str'>",requiresPython2,D:\Testing\adamchainz\django-mysql\tests\testapp\utils.py,skipUnless,2, Python 2 only ; <class 'str'> <ast.Name object at 0x000001703F1CE220> ; <class 'ast.Name'>,,,,,,,
+490,490,"admin,site,register","Zipcode ; <class 'str'>, ZipcodeAdmin ; <class 'str'>",,D:\Testing\adamfast\geodjango-tigerline\tigerline\admin.py,register,2, ZipcodeAdmin ; <class 'str'> Zipcode ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+491,491,"admin,site,register","State ; <class 'str'>, StateAdmin ; <class 'str'>",,D:\Testing\adamfast\geodjango-tigerline\tigerline\admin.py,register,2, StateAdmin ; <class 'str'> State ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+492,492,"admin,site,register","County ; <class 'str'>, CountyAdmin ; <class 'str'>",,D:\Testing\adamfast\geodjango-tigerline\tigerline\admin.py,register,2, CountyAdmin ; <class 'str'> County ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+552,552,"sys,path,insert","1 ; <class 'int'>, ../ ; <class 'str'>",,D:\Testing\adampresley\bottlepy-bootstrap\tests\TestExampleService.py,insert,2, ../ ; <class 'str'> 1 ; <class 'int'>,sys,,,,,,
+557,557,"admin,site,register","Customer ; <class 'str'>, CustomerAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\customer\admin.py,register,2, CustomerAdmin ; <class 'str'> Customer ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+558,558,"admin,site,register","CustomerGroup ; <class 'str'>, CustomerGroupAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\customer\admin.py,register,2, CustomerGroupAdmin ; <class 'str'> CustomerGroup ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+559,559,"admin,site,register","Discount ; <class 'str'>, DiscountParentAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\discount\admin.py,register,2, DiscountParentAdmin ; <class 'str'> Discount ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+560,560,"os,environ,setdefault","DJANGO_SETTINGS_MODULE ; <class 'str'>, example.settings ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\example\celery.py,setdefault,2, example.settings ; <class 'str'> DJANGO_SETTINGS_MODULE ; <class 'str'>,os,,,,,,
+561,561,"admin,site,register","MailMessage ; <class 'str'>, MailMessageAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\mailing\admin.py,register,2, MailMessageAdmin ; <class 'str'> MailMessage ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+564,564,"admin,site,register","Tax ; <class 'str'>, TaxParentAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\tax\admin.py,register,2, TaxParentAdmin ; <class 'str'> Tax ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+565,565,"admin,site,register","TaxRule ; <class 'str'>, TaxRuleAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\tax\admin.py,register,2, TaxRuleAdmin ; <class 'str'> TaxRule ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+566,566,"admin,site,register","ProductTaxClass ; <class 'str'>, ProductTaxClassAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\tax\admin.py,register,2, ProductTaxClassAdmin ; <class 'str'> ProductTaxClass ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+567,567,"admin,site,register","Variation ; <class 'str'>, VariationAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\example\variation\admin.py,register,2, VariationAdmin ; <class 'str'> Variation ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+582,582,Options,", as ;<class 'str'>, ",options,D:\Testing\adaptivdesign\django-sellmo\sellmo\apps\pricing\templatetags\sellmo_pricing.py,Options,3, as ;<class 'str'> ,,,,,,,
+584,584,"indexing,indexer,register_index","product ; <class 'str'>, ProductIndex ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\apps\product\configure.py,register_index,2, ProductIndex ; <class 'str'> product ; <class 'str'>,indexing,,,,,,
+590,590,property,"get_value ; <class 'str'>, set_value ; <class 'str'>",value,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\attribute\internal\models.py,property,2,"get_value ; <class 'str'>, set_value ; <class 'str'>",,,,,,,
+593,593,property,"get_value ; <class 'str'>, set_value ; <class 'str'>",value,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\attribute\internal\models.py,property,2,"get_value ; <class 'str'>, set_value ; <class 'str'>",,,,,,,
+628,628,"settings_manager,add_setting","allow_backorders ; <class 'str'>, , group ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\availability\configure.py,add_setting,3, group ; <class 'str'>   allow_backorders ; <class 'str'>,settings_manager,,,,,,
+629,629,"settings_manager,add_inline_setting","availability ; <class 'str'>, StoreAvailability ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\availability\configure.py,add_inline_setting,2, StoreAvailability ; <class 'str'> availability ; <class 'str'>,settings_manager,,,,,,
+662,662,"mailer,register_writer","order_confirmation ; <class 'str'>, OrderConfirmationMailWriter ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\checkout\mailing\configure.py,register_writer,2, OrderConfirmationMailWriter ; <class 'str'> order_confirmation ; <class 'str'>,mailer,,,,,,
+663,663,"mailer,register_writer","order_notification ; <class 'str'>, OrderNotificationMailWriter ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\checkout\mailing\configure.py,register_writer,2, OrderNotificationMailWriter ; <class 'str'> order_notification ; <class 'str'>,mailer,,,,,,
+664,664,"mailer,register_writer","shipping_notification ; <class 'str'>, ShippingNotificationMailWriter ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\checkout\mailing\configure.py,register_writer,2, ShippingNotificationMailWriter ; <class 'str'> shipping_notification ; <class 'str'>,mailer,,,,,,
+700,700,"settings_manager,add_setting","send_order_mails ; <class 'str'>, , group ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\checkout\mailing\configure.py,add_setting,3, group ; <class 'str'>   send_order_mails ; <class 'str'>,settings_manager,,,,,,
+701,701,"reporter,register_writer","order_confirmation ; <class 'str'>, OrderConfirmationReportWriter ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\checkout\reporting\configure.py,register_writer,2, OrderConfirmationReportWriter ; <class 'str'> order_confirmation ; <class 'str'>,reporter,,,,,,
+702,702,"reporter,register_writer","invoice ; <class 'str'>, InvoiceReportWriter ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\sellmo\contrib\checkout\reporting\configure.py,register_writer,2, InvoiceReportWriter ; <class 'str'> invoice ; <class 'str'>,reporter,,,,,,
+717,717,"admin,site,register","<ast.Attribute object at 0x000001703F0FB400> ; <class 'ast.Attribute'>, SupplierAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\availability\admin.py,register,2, SupplierAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F0FB400> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+719,719,Options,", as ;<class 'str'>, ",options,D:\Testing\adaptivdesign\django-sellmo\skeleton\brand\templatetags\brand.py,Options,3, as ;<class 'str'> ,,,,,,,
+721,721,"admin,site,register","<ast.Attribute object at 0x000001703F1C0B80> ; <class 'ast.Attribute'>, BrandAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\brand\admin.py,register,2, BrandAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F1C0B80> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+722,722,"admin,site,register","<ast.Attribute object at 0x000001703F270A60> ; <class 'ast.Attribute'>, CartAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\cart\admin.py,register,2, CartAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F270A60> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+724,724,"modules,settings,add_setting","checkout_accept_terms_page ; <class 'str'>, , group ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\checkout\configure.py,add_setting,3, group ; <class 'str'>   checkout_accept_terms_page ; <class 'str'>,modules,,,,,,
+725,725,"admin,site,register","<ast.Attribute object at 0x000001703F191580> ; <class 'ast.Attribute'>, ColorAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\color\admin.py,register,2, ColorAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F191580> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+726,726,"admin,site,register","<ast.Attribute object at 0x000001703F151E50> ; <class 'ast.Attribute'>, CustomerAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\customer\admin.py,register,2, CustomerAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F151E50> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+727,727,"admin,site,register","<ast.Attribute object at 0x000001703F151220> ; <class 'ast.Attribute'>, CustomerGroupAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\customer\admin.py,register,2, CustomerGroupAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F151220> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+728,728,"admin,site,register","NavigationItem ; <class 'str'>, NavigationItemAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\extras\navigation\admin.py,register,2, NavigationItemAdmin ; <class 'str'> NavigationItem ; <class 'str'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+729,729,getattr,"settings ; <class 'str'>, NAVIGATION_PLACEMENT_CHOICES ; <class 'str'>, List_value ; List",PLACEMENT_CHOICES,D:\Testing\adaptivdesign\django-sellmo\skeleton\extras\navigation\constants.py,getattr,3, List_value ; List  NAVIGATION_PLACEMENT_CHOICES ; <class 'str'> settings ; <class 'str'>,,,,,,,
+730,730,getattr,"settings ; <class 'str'>, NAVIGATION_MAX_EXPIRE_TIME ; <class 'str'>, ",MAX_EXPIRE_TIME,D:\Testing\adaptivdesign\django-sellmo\skeleton\extras\navigation\constants.py,getattr,3, NAVIGATION_MAX_EXPIRE_TIME ; <class 'str'> settings ; <class 'str'>,,,,,,,
+763,763,"admin,site,register","<ast.Attribute object at 0x000001703F14F760> ; <class 'ast.Attribute'>, SettingsAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\settings\admin.py,register,2, SettingsAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F14F760> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+764,764,"admin,site,register","<ast.Attribute object at 0x000001703F2DA190> ; <class 'ast.Attribute'>, ShippingMethodParentAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\shipping\admin.py,register,2, ShippingMethodParentAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F2DA190> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
+765,765,"admin,site,register","<ast.Attribute object at 0x000001703F0CC340> ; <class 'ast.Attribute'>, ShippingCarrierAdmin ; <class 'str'>",,D:\Testing\adaptivdesign\django-sellmo\skeleton\shipping\admin.py,register,2, ShippingCarrierAdmin ; <class 'str'> <ast.Attribute object at 0x000001703F0CC340> ; <class 'ast.Attribute'>,admin,register,'request',D:\Testing\2buntu\2buntu-blog\twobuntu\accounts\views.py,,1.0,views
